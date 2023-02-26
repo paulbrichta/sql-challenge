@@ -17,7 +17,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 &nbsp;&nbsp;&nbsp;&nbsp;- Remember to specify the data types, primary keys, foreign keys, and other constraints.
 
-&nbsp;&nbsp;&nbsp;&nbsp;- For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
+&nbsp;&nbsp;&nbsp;&nbsp;- For the primary keys, verify that the column is unique. Otherwise, create a composite key, which takes two primary keys to uniquely identify a row.
 
 &nbsp;&nbsp;&nbsp;&nbsp;- Be sure to create the tables in the correct order to handle the foreign keys.
 

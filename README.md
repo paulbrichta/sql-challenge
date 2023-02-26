@@ -15,11 +15,11 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 ### Data Engineering
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Remember to specify the data types, primary keys, foreign keys, and other constraints.
+&nbsp;&nbsp;- Remember to specify the data types, primary keys, foreign keys, and other constraints.
 
-&nbsp;&nbsp;&nbsp;&nbsp;- For the primary keys, verify that the column is unique. Otherwise, create a composite key, which takes two primary keys to uniquely identify a row.
+&nbsp;&nbsp;- For the primary keys, verify that the column is unique. Otherwise, create a composite key, which takes two primary keys to uniquely identify a row.
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Be sure to create the tables in the correct order to handle the foreign keys.
+&nbsp;&nbsp;- Be sure to create the tables in the correct order to handle the foreign keys.
 
 2. Import each CSV file into its corresponding SQL table.
 
